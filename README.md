@@ -1,0 +1,2 @@
+# PracticaNodeapp
+Practicando con mysql
